@@ -1,0 +1,36 @@
+#include <iostream>
+
+using namespace std;
+int main(){
+    string a,d,f,i,j,m,n,q,r,u,v,y;
+    a= "Baby shark, doo doo doo doo doo doo";
+    d= "Baby shark!";
+    f= "Mommy shark, doo doo doo doo doo doo";
+    i= "Mommy shark!";
+    j= "Daddy shark, doo doo doo doo doo doo";
+    m= "Daddy shark!";
+    n= "Grandma shark, doo doo doo doo doo doo";
+    q= "Grandma shark!";
+    r= "Grandpa shark, doo doo doo doo doo doo";
+    u= "Grandpa shark!";
+    v= "Let’s go hunt, doo doo doo doo doo doo";
+    y= "Let’s go hunt!";
+    
+    //Song
+    cout<<a<<endl<<a<<endl<<a<<endl;
+    cout<<d<<endl;
+    cout<<f<<endl<<f<<endl<<f<<endl;
+    cout<<i<<endl;
+    cout<<j<<endl<<j<<endl<<j<<endl;
+    cout<<m<<endl;
+    cout<<n<<endl<<n<<endl<<n<<endl;
+    cout<<q<<endl;
+    cout<<r<<endl<<r<<endl<<r<<endl;
+    cout<<u<<endl;
+    cout<<v<<endl<<v<<endl<<v<<endl;
+    cout<<y<<endl;
+    
+    return 0;
+    
+}
+
